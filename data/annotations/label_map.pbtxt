@@ -1,15 +1,5 @@
 item {
-  name: "eye"
+  name: "face"
   id: 1
-  display_name: "eye"
-}
-item {
-  name: "nose"
-  id: 2
-  display_name: "nose"
-}
-item {
-  name: "mouth"
-  id: 3
-  display_name: "mouth"
+  display_name: "face"
 }
