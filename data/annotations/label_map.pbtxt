@@ -3,3 +3,10 @@ item {
   id: 1
   display_name: "face"
 }
+
+item {
+  name: "nf"
+  id: 2
+  display_name: "nf"
+}
+
