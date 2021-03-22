@@ -1,12 +1,15 @@
 item {
-  name: "face"
+  name: "eye"
   id: 1
-  display_name: "face"
+  display_name: "eye"
 }
-
 item {
-  name: "nf"
+  name: "nose"
   id: 2
-  display_name: "nf"
+  display_name: "nose"
 }
-
+item {
+  name: "mouth"
+  id: 3
+  display_name: "mouth"
+}
